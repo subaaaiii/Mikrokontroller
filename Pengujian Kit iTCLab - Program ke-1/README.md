@@ -4,7 +4,7 @@
 ## Pengaturan References:
 
 <p align="center">
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-1/Preferences.jpg" alt="" class="img-responsive" width="700">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-1/Preferences.jpg" alt="" class="img-responsive" width="400">
 </p>
 
 ## Pengaturan Board dan port:
