@@ -12,7 +12,7 @@
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
 </p>
 
-## <font color="red">Kendala</font>
+## Kendala :
 
 <p align="center">
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
