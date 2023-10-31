@@ -4,7 +4,7 @@
 ## Library Yang dibutuhkan:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Simulasi%20Sistem%20Kendali%20PID/library.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Simulasi%20Sistem%20Kendali%20PID/library.jpg" alt="" class="img-responsive" width="700">
 </p>
 
 ## Output:
