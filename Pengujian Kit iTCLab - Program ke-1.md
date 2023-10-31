@@ -1,6 +1,6 @@
 # Pengujian Kit iTCLab - Program ke-1
 
-## Pengaturan References:
+##Pengaturan References:
 
 <p align="center">
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
@@ -11,7 +11,7 @@
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
 </p>
 
-## <span style="color: red;">Kendala </span>:
+##<span style="color: red;">Kendala </span>:
 
 <p align="center">
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
