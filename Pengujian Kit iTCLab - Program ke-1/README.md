@@ -15,12 +15,12 @@
 
 ## Kendala :
 
-<p align="center">
-  <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
+<p>
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-1/Kendala.jpg" alt="" class="img-responsive" width="400">
 </p>
 
 Terdapat kendala pada fungsi AnalogWrite, fungsi hanya membutuhkan 3 paramterer, sedangkan dalam program dipassing 5 parameter, kemungkinan beda versi analogwrite atau terdapat update fungsi analogwrite itu sendiri.
 berikut analisa menggunaka AI : CHATGPT 
-<p align="center">
-  <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
+<p>
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-1/AI.jpg" alt="" class="img-responsive" width="400">
 </p>
