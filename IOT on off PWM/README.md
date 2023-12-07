@@ -12,24 +12,21 @@
 <p>
   <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Output.jpg" alt="" class="img-responsive" width="400">
 </p>
-Output berupa diagram komponen PID, yaitu set point, PID(Proportional, integral, derrivatif) Error an time.
-parameter Kc kaul dan tauD dapat dimanipulasi agar mendapatkan output atau keluaran yang diinginkan.
+Output berupa perubahan temperature yang dihasilkan dari hasil manipulasi PWM
 
 ## Pengaturan Topik:
 
 <p>
   <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Topik.jpg" alt="" class="img-responsive" width="400">
 </p>
-Output berupa diagram komponen PID, yaitu set point, PID(Proportional, integral, derrivatif) Error an time.
-parameter Kc kaul dan tauD dapat dimanipulasi agar mendapatkan output atau keluaran yang diinginkan.
+Topik diatur dan didefinisikan agar dapat disesuaikan di aplikasi mqtt panel di android
 
 ## Output di mqtt panel:
 
 <p>
   <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Panel.jpg" alt="" class="img-responsive" width="400">
 </p>
-Output berupa diagram komponen PID, yaitu set point, PID(Proportional, integral, derrivatif) Error an time.
-parameter Kc kaul dan tauD dapat dimanipulasi agar mendapatkan output atau keluaran yang diinginkan.
+Output berdasarkan topik yang diatur pada program arduino, menunjuukan line graph pergerakan perubahan suhu yang dihasilkan.
 
 
 
