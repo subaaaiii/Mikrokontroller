@@ -15,13 +15,21 @@
 Output berupa diagram komponen PID, yaitu set point, PID(Proportional, integral, derrivatif) Error an time.
 parameter Kc kaul dan tauD dapat dimanipulasi agar mendapatkan output atau keluaran yang diinginkan.
 
-## Output di mqtt panel:
+## Pengaturan Topik:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Output.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Topik.jpg" alt="" class="img-responsive" width="400">
 </p>
 Output berupa diagram komponen PID, yaitu set point, PID(Proportional, integral, derrivatif) Error an time.
 parameter Kc kaul dan tauD dapat dimanipulasi agar mendapatkan output atau keluaran yang diinginkan.
+
+## Output di mqtt panel:
+
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Simulasi%20Sistem%20Kendali%20PID/Output2.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Panel.jpg" alt="" class="img-responsive" width="400">
 </p>
+Output berupa diagram komponen PID, yaitu set point, PID(Proportional, integral, derrivatif) Error an time.
+parameter Kc kaul dan tauD dapat dimanipulasi agar mendapatkan output atau keluaran yang diinginkan.
+
+
+
