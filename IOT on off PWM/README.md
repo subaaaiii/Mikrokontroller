@@ -6,6 +6,7 @@
 <p>
   <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Input.jpg" alt="" class="img-responsive" width="700">
 </p>
+Menggunakan Modul wifi dan modul broker gratis dari hivemqtt.com dan konfigurasinya disesuaikan.
 
 ## Output di serial monitor:
 
