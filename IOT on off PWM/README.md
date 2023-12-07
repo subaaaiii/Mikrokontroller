@@ -1,20 +1,19 @@
 
-# Pengujian Kit iTCLab - Program ke-2
+# IOT on/off PWM
 
-## Pengaturan References:
+## Library Yang dibutuhkan:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-1/Preferences.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Simulasi%20Sistem%20Kendali%20PID/library.jpg" alt="" class="img-responsive" width="700">
 </p>
 
-## Pengaturan Board dan port:
+## Output:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-1/BoardPort.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Simulasi%20Sistem%20Kendali%20PID/Output1.jpg" alt="" class="img-responsive" width="400">
 </p>
-
-## Hasil Output Pada Serial Monitor :
-
+Output berupa diagram komponen PID, yaitu set point, PID(Proportional, integral, derrivatif) Error an time.
+parameter Kc kaul dan tauD dapat dimanipulasi agar mendapatkan output atau keluaran yang diinginkan.
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-2/HasilOutput.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Simulasi%20Sistem%20Kendali%20PID/Output2.jpg" alt="" class="img-responsive" width="400">
 </p>
