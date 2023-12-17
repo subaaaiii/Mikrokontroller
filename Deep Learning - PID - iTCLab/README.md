@@ -6,14 +6,13 @@
 <p>
   <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/program.jpg" alt="" class="img-responsive" width="700">
 </p>
-Menggunakan Modul wifi dan modul broker gratis dari hivemqtt.com dan konfigurasinya disesuaikan.
+
 
 ## Library yang dibutuhkan di jupyter notebook:
 
 <p>
   <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/library.jpg" alt="" class="img-responsive" width="400">
 </p>
-Output berupa perubahan temperature yang dihasilkan dari hasil manipulasi PWM
 
 ## import model untuk train data:
 
@@ -27,7 +26,6 @@ Topik diatur dan didefinisikan agar dapat disesuaikan di aplikasi mqtt panel di 
 <p>
   <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/pid.jpg" alt="" class="img-responsive" width="400">
 </p>
-Output berdasarkan topik yang diatur pada program arduino, menunjuukan line graph pergerakan perubahan suhu yang dihasilkan.
 
 
 ## opening connection python ke kit ITCLab:
