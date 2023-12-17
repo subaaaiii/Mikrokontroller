@@ -4,30 +4,48 @@
 ## Menggupload program 05 ITCLab_PID untuk menghubungkan ITCLab dengan python (jupyter notebook):
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Input.jpg" alt="" class="img-responsive" width="700">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/program.jpg" alt="" class="img-responsive" width="700">
 </p>
 Menggunakan Modul wifi dan modul broker gratis dari hivemqtt.com dan konfigurasinya disesuaikan.
 
-## Output di serial monitor:
+## Library yang dibutuhkan di jupyter notebook:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Output.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/library.jpg" alt="" class="img-responsive" width="400">
 </p>
 Output berupa perubahan temperature yang dihasilkan dari hasil manipulasi PWM
 
-## Pengaturan Topik:
+## import model untuk train data:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Topik.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/model.jpg" alt="" class="img-responsive" width="400">
 </p>
 Topik diatur dan didefinisikan agar dapat disesuaikan di aplikasi mqtt panel di android
 
-## Output di mqtt panel:
+## setting parameter dan logic untuk mengevaluasi model:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Panel.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/pid.jpg" alt="" class="img-responsive" width="400">
 </p>
 Output berdasarkan topik yang diatur pada program arduino, menunjuukan line graph pergerakan perubahan suhu yang dihasilkan.
 
+
+## opening connection python ke kit ITCLab:
+
+<p>
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/connection.jpg" alt="" class="img-responsive" width="400">
+</p>
+
+## proses epoch pid sampai error mendekati 0:
+
+<p>
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/epoch1.jpg" alt="" class="img-responsive" width="400">
+</p>
+<p>
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/epoch2.jpg" alt="" class="img-responsive" width="400">
+</p>
+<p>
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab/epoch3.jpg" alt="" class="img-responsive" width="400">
+</p>
 
 
