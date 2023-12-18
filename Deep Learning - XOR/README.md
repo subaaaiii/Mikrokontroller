@@ -17,16 +17,16 @@
 ## compile model:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20XOR/compile.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20XOR/compile.jpg" alt="" class="img-responsive" width="500">
 </p>
 
 ## Hasil Prediksi deep learning:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20XOR/hasil_prediksi1.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20XOR/hasil_prediksi.jpg" alt="" class="img-responsive" width="500">
 </p>
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20XOR/hasil_prediksi2.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20XOR/hasil_prediksi2.jpg" alt="" class="img-responsive" width="500">
 </p>
 
 
