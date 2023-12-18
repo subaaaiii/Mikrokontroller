@@ -20,7 +20,6 @@
 <p>
   <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab%20-%20IoT/model.jpg" alt="" class="img-responsive" width="400">
 </p>
-Topik diatur dan didefinisikan agar dapat disesuaikan di aplikasi mqtt panel di android
 
 ## setting parameter dan logic untuk mengevaluasi model:
 
@@ -55,6 +54,7 @@ Topik diatur dan didefinisikan agar dapat disesuaikan di aplikasi mqtt panel di 
 <p>
   <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab%20-%20IoT/panel2.jpg" alt="" class="img-responsive" width="400">
 </p>
+Topik diatur dan didefinisikan berdasarkan topik yang di publish di program python:jupyter notebook
 
 ## Hasil grafik pemantauan di IoT MQTT Panel:
 
