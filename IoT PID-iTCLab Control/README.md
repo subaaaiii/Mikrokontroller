@@ -11,10 +11,10 @@
 ## Hasil Controling suhu menggunakan panel mqtt di android:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IoT%20PID-iTCLab%20Monitor/panel.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IoT%20PID-iTCLab%20Control/panel.jpg" alt="" class="img-responsive" width="400">
 </p>
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IoT%20PID-iTCLab%20Monitor/panel2.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IoT%20PID-iTCLab%20Control/panel2.jpg" alt="" class="img-responsive" width="400">
 </p
 <p>Pastikan menyetting topik sesuai dengan parameter yang di publish pada program adruino</p>
 <p>Kita dapat memaniplasi nilai PID Menggunakan Panel mqtt</p>
