@@ -13,7 +13,8 @@
 <p>
   <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Deep%20Learning%20-%20PID%20-%20iTCLab%20-%20IoT/library.jpg" alt="" class="img-responsive" width="400">
 </p>
- <p> memutuhkan library tambahan untuk mqtt client yaitu : from paho.mqtt import client as mqtt_client</p>
+ <p> membutuhkan library tambahan untuk mqtt client yaitu : from paho.mqtt import client as mqtt_client</p>
+ 
 ## import model untuk train data:
 
 <p>
