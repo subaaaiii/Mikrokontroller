@@ -11,17 +11,17 @@
 ## Setting topik di mqtt panel android:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IoT%20PID-iTCLab%20Monitor/topik1.png" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IoT%20PID-iTCLab%20Monitor/topik1.jpg" alt="" class="img-responsive" width="400">
 </p>
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IoT%20PID-iTCLab%20Monitor/topik2.png" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IoT%20PID-iTCLab%20Monitor/topik2.jpg" alt="" class="img-responsive" width="400">
 </p>
 <p>Topik disesuaikan dengan yang di publish pada program adruino</p>
 
 ## Hasil monitoring suhu menggunakan panel mqtt di android:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IoT%20PID-iTCLab%20Monitor/hasil.png" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/IoT%20PID-iTCLab%20Monitor/hasil.jpg" alt="" class="img-responsive" width="400">
 </p>
 
 
